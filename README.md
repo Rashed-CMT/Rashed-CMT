@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   
 <p>This notice supplements the Microsoft Privacy Statement and applies to personal data defined as “consumer health data” subject to the Washington State My Health My Data Act (MHMDA), the Nevada Health Data Privacy Act (NHDPA), or other applicable state consumer health privacy law.</p>
-![image](https://github.com/user-attachments/assets/649a3b34-e227-43d3-9d8e-3d0ad30f79cd)
+![image](https://github.com/user-attachments/assets/545ac10f-db68-4ff1-87e7-efcebf2b5afc)
 
